@@ -1,0 +1,133 @@
+@media all and(max-width:500px){
+  body{
+		margin: 2%;
+		border: 1vw dotted black;
+		background-color: #000000;
+}
+#image{
+    line-height:5%;
+		width: 90vw;
+    height:200%;
+		border:1vw solid white;
+		margin:0 auto;
+    background-color: #fd1d78;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#ffffff;
+    text-align: center;
+    background-size: 100%;
+  padding-top:5%;
+  padding-bottom:5%;
+  margin-top:2%;
+    margin-bottom:2%;
+  font-family:Apple-chancery;
+    font-size: 100%;
+}
+.preview{
+		width:10%;
+  margin-right:0.1%;
+		margin-left:13%;
+  margin-top:4%;
+    border: 1.5vw solid white;
+}
+img{
+		width:95%;
+}
+h1{
+  font-size:300%;
+  font-family:Apple-Chancery;
+    color:white;
+  text-alignment:right;
+  float:overflow;
+  
+}
+h1:hover{
+  color:#f7797d;
+  border:0.5vw inset pink;
+  
+}
+#image:hover{
+  border:1vw groove white;
+  font-size:310%;
+}
+.preview:hover{
+  width:12%;
+  border: 95% solid white;
+}
+h2{
+  font-size:150%;
+  font-family:Apple-Chancery;
+    color:white;
+  text-alignment:center;
+  float:overflow;
+  margin-left:26%;
+  
+  }
+  
+
+}
+
+body{
+		margin: 2%;
+		border: 1px dotted black;
+		background-color: #000000;
+}
+#image{
+    line-height:10%;
+		width: 90vw;
+    height:656%;
+		border:1vw solid white;
+		margin:0 auto;
+    background-color: #fd1d78;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#ffffff;
+    text-align: center;
+    background-size: 100%;
+  padding-top:10%;
+  padding-bottom:10%;
+  margin-top:5%;
+    margin-bottom:5%;
+  font-family:Apple-chancery;
+    font-size: 400%;
+}
+.preview{
+		width:12%;
+  margin-right:0.1%;
+		margin-left:14%;
+  margin-top:6%;
+    border: 15px solid white;
+}
+img{
+		width:95%;
+}
+h1{
+  font-size:600%;
+  font-family:Apple-Chancery;
+    color:white;
+  text-alignment:right;
+  float:overflow;
+  
+}
+h1:hover{
+  color:#f7797d;
+  border:0.5vw inset pink;
+  
+}
+#image:hover{
+  border:1vw groove white;
+  font-size:410%;
+}
+.preview:hover{
+  width:15%;
+  border: 95% solid white;
+}
+h2{
+  font-size:200%;
+  font-family:Apple-Chancery;
+    color:white;
+  text-alignment:center;
+  float:overflow;
+  margin-left:38%;
+  
+}

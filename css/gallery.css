@@ -1,0 +1,32 @@
+body{
+		margin: 2%;
+		border: 1px solid black;
+		background-color: #000000;
+}
+#image{
+    line-height:50px;
+		width: 900px;
+    height: 105px;
+		border:10px solid white;
+		margin:0 auto;
+    background-color: #fd1d78;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#ffffff;
+    text-align: center;
+    background-size: 100%;
+  padding-top:70px;
+  margin-top:15px;
+    margin-bottom:25px;
+  font-family:Apple-chancery;
+    font-size: 300%;
+}
+.preview{
+		width:12%;
+  margin-right:0.1%;
+		margin-left:17%;
+    border: 15px solid white;
+}
+img{
+		width:95%;
+}
